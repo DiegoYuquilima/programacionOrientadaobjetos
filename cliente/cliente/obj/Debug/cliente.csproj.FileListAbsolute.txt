@@ -1,0 +1,9 @@
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\bin\Debug\cliente.exe.config
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\bin\Debug\cliente.exe
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\bin\Debug\cliente.pdb
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\obj\Debug\cliente.csprojResolveAssemblyReference.cache
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\obj\Debug\cliente.Form1.resources
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\obj\Debug\cliente.Properties.Resources.resources
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\obj\Debug\cliente.csproj.GenerateResource.Cache
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\obj\Debug\cliente.exe
+c:\users\dixol\documents\visual studio 2015\Projects\cliente\cliente\obj\Debug\cliente.pdb
